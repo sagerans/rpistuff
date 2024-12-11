@@ -1,4 +1,3 @@
-
 import network, socket, machine
 from time import sleep
 from picozero import pico_temp_sensor, pico_led
